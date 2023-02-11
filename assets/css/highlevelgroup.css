@@ -84,6 +84,7 @@ a.navbar-brand {
         color: rgb(24, 13, 61);
     }
     #carouselExampleFade {
+        margin-top: 65px;
         height: 400px;
     }
     #carouselExampleFade .carousel-item img {
